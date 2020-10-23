@@ -7,10 +7,9 @@ The objective is to process the raw [XML-based DBLP](https://dblp.uni-trier.de)
  dataset and perform various parallel distributed computation on the set via the [Hadoop Map-Reduce framework](https://hadoop.apache.org).
 
 ## Results
-![](src/Screenshots/Task5Compile.png)
-![](src/Screenshots/Task5Processing.png)
-
-![](src/Screenshots/Task5Output.png)
+![](src/main/Screenshots/Task5Compile.png)
+![](src/main/Screenshots/Task5Processing.png)
+![](src/main/Screenshots/Task5Output.png)
 
 ## Installation
 
