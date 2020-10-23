@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Hadoop shaded Protobuf 3.7
+Implementation-Version: 1.0.0
+Built-By: vinay
+Specification-Vendor: Apache Software Foundation
+Specification-Title: Apache Hadoop shaded Protobuf 3.7
+Implementation-Vendor-Id: org.apache.hadoop.thirdparty
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_232
+Specification-Version: 1.0
+Implementation-URL: https://www.apache.org/hadoop-thirdparty/hadoop-sh
+ aded-protobuf_3_7/
+Implementation-Vendor: Apache Software Foundation
+

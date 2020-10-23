@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/jacobsanchez/IdeaProjects/CS441/src/main/scala/Date.scala:2:18: imported `Date` is permanently hidden by definition of object Date[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0mimport java.util.Date[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m9 deprecations (since 2.13.0)[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.3)[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m10 deprecations in total; re-run with -deprecation for details[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m[0J

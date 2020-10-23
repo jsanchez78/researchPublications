@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+    <mastersthesis mdate="2018-06-13" key="ms/Vollmer2006">
+        <author>Stephan Vollmer</author>
+        <title>Portierung des DBLP-Systems auf ein relationales Datenbanksystem und Evaluation der Performance.</title>
+        <year>2006</year>
+        <school>Diplomarbeit, Universit&auml;t Trier, FB IV, Informatik</school>
+        <ee>http://dbis.uni-trier.de/Diplomanden/Vollmer/vollmer.shtml</ee>
+    </mastersthesis>
+    <mastersthesis mdate="2020-03-12" key="ms/Klaas2007">
+        <author>Vanessa C. Klaas</author>
+        <title>Who's Who in the World Wide Web: Approaches to Name Disambiguation</title>
+        <year>2007</year>
+        <school>Diplomarbeit, LMU M&uuml;nchen, Informatik</school>
+        <ee type="oa">http://www.pms.ifi.lmu.de/publikationen/diplomarbeiten/Vanessa.Klaas/thesis.pdf</ee>
+    </mastersthesis>
+    <mastersthesis mdate="2018-06-13" key="ms/Brown92">
+        <author>Kurt P. Brown</author>
+        <title>PRPL: A Database Workload Specification Language, v1.3.</title>
+        <year>1992</year>
+        <school>University of Wisconsin-Madison</school>
+    </mastersthesis>
+    <phdthesis mdate="2002-01-03" key="phd/McKusick84">
+        <author>Marshall K. McKusick</author>
+        <title>Register Allocation and Data Conversion in Machine Independent Code Generators</title>
+        <year>1984</year>
+        <school>University of California at Berkeley</school>
+    </phdthesis>
+
+    <phdthesis mdate="2016-05-04" key="phd/ch/Kurtansky2007">
+        <author>Pascal Kurtansky</author>
+        <title>Prepaid charging for IP services.</title>
+        <year>2007</year>
+        <school>ETH Zurich</school>
+        <ee>http://d-nb.info/994088175</ee>
+    </phdthesis>
+    <phdthesis mdate="2020-02-12" key="phd/ch/Bertolami2008">
+    <author>Roman Bertolami</author>
+    <title>Ensemble methods for offline handwritten text line recognition.</title>
+    <year>2008</year>
+    <school>University of Bern</school>
+    <ee>http://www.zb.unibe.ch/download/eldiss/08bertolami_r.pdf</ee>
+    <ee>https://nbn-resolving.org/urn:nbn:ch:bel-116507</ee>
+    <ee>http://d-nb.info/997847409</ee>
+</phdthesis>
+    <book mdate="2019-05-14" key="conf/mww/2003">
+        <editor>Jonathan Lawry</editor>
+        <editor>James G. Shanahan</editor>
+        <editor>Anca L. Ralescu</editor>
+        <title>Modelling with Words - Learning, Fusion, and Reasoning within a Formal Linguistic Representation Framework</title>
+        <booktitle>Modelling with Words</booktitle>
+        <series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+        <volume>2873</volume>
+        <publisher>Springer</publisher>
+        <year>2003</year>
+        <isbn>3-540-20487-3</isbn>
+        <url>db/conf/mww/mww2003.html</url>
+        <ee>https://doi.org/10.1007/b94063</ee>
+    </book>
+    <proceedings mdate="2016-06-28" key="conf/dphoto/2011">
+        <editor>Francisco H. Imai</editor>
+        <editor>Feng Xiao</editor>
+        <title>Digital Photography VII, part of the IS&amp;T-SPIE Electronic Imaging Symposium, San Francisco Airport, California, USA, January 24-25, 2011, Proceedings.</title>
+        <booktitle>Digital Photography</booktitle>
+        <series>SPIE Proceedings</series>
+        <volume>7876</volume>
+        <publisher>SPIE/IS&amp;T</publisher>
+        <year>2011</year>
+        <isbn>978-0-8194-8413-0</isbn>
+        <ee>http://proceedings.spiedigitallibrary.org/volume.aspx?volume=7876</ee>
+        <url>db/conf/dphoto/dphoto2011.html</url>
+    </proceedings>
+    <inproceedings mdate="2017-05-21" key="conf/dphoto/HubelB06">
+        <author>Paul M. Hubel</author>
+        <author>Markus Bautsch</author>
+        <title>Resolution for color photography.</title>
+        <pages>60690M</pages>
+        <year>2006</year>
+        <booktitle>Digital Photography</booktitle>
+        <ee>https://doi.org/10.1117/12.654573</ee>
+        <crossref>conf/dphoto/2006</crossref>
+        <url>db/conf/dphoto/dphoto2006.html#HubelB06</url>
+    </inproceedings>
+    <inproceedings mdate="2017-05-21" key="conf/dphoto/SaitoK07">
+    <author>Takahiro Saito</author>
+    <author>Takashi Komatsu</author>
+    <title>Super-resolution total-variation decoding of JPEG-compressed image data.</title>
+    <pages>65020G</pages>
+    <year>2007</year>
+    <booktitle>Digital Photography</booktitle>
+    <ee>https://doi.org/10.1117/12.702977</ee>
+    <crossref>conf/dphoto/2007</crossref>
+    <url>db/conf/dphoto/dphoto2007.html#SaitoK07</url>
+</inproceedings>
+    <article mdate="2020-06-25" key="tr/meltdown/s18" publtype="informal">
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Daniel Gruss</author>
+        <author>Werner Haas 0004</author>
+        <author>Mike Hamburg</author>
+        <author>Moritz Lipp</author>
+        <author>Stefan Mangard</author>
+        <author>Thomas Prescher 0002</author>
+        <author>Michael Schwarz 0001</author>
+        <author>Yuval Yarom</author>
+        <title>Spectre Attacks: Exploiting Speculative Execution.</title>
+        <journal>meltdownattack.com</journal>
+        <year>2018</year>
+        <ee type="oa">https://spectreattack.com/spectre.pdf</ee>
+    </article>
+
+
+    <article mdate="2020-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Moritz Lipp</author>
+        <author>Michael Schwarz 0001</author>
+        <author>Daniel Gruss</author>
+        <author>Thomas Prescher 0002</author>
+        <author>Werner Haas 0004</author>
+        <author>Stefan Mangard</author>
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Yuval Yarom</author>
+        <author>Mike Hamburg</author>
+        <title>Meltdown</title>
+        <journal>meltdownattack.com</journal>
+        <ee type="oa">https://meltdownattack.com/meltdown.pdf</ee>
+        <year>2018</year>
+    </article>
+    <incollection mdate="2017-07-12" key="reference/crypt/Bleumer11x" publtype="encyclopedia">
+        <author>Gerrit Bleumer</author>
+        <title>Public Key Proxy Signatures.</title>
+        <pages>999-1001</pages>
+        <year>2011</year>
+        <booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4419-5906-5_218</ee>
+        <crossref>reference/crypt/2011</crossref>
+        <url>db/reference/crypt/crypt2011.html#Bleumer11x</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/crypt/Kaliski05h" publtype="encyclopedia">
+        <author>Burton S. Kaliski Jr.</author>
+        <title>Exponential Time.</title>
+        <year>2005</year>
+        <booktitle>Encyclopedia of Cryptography and Security</booktitle>
+        <ee>https://doi.org/10.1007/0-387-23483-7_149</ee>
+        <crossref>reference/crypt/2005</crossref>
+        <url>db/reference/crypt/crypt2005.html#Kaliski05h</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/crypt/Alves-Foss11" publtype="encyclopedia">
+        <author>Jim Alves-Foss</author>
+        <title>Multiple Independent Levels of Security.</title>
+        <pages>815-818</pages>
+        <year>2011</year>
+        <booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4419-5906-5_865</ee>
+        <crossref>reference/crypt/2011</crossref>
+        <url>db/reference/crypt/crypt2011.html#Alves-Foss11</url>
+    </incollection>
+</dblp>

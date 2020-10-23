@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: logback-config
+Implementation-Version: 0.3.1
+Specification-Vendor: org.gnieh
+Specification-Title: logback-config
+Implementation-Vendor-Id: org.gnieh
+Specification-Version: 0.3.1
+Implementation-URL: https://github.com/gnieh/logback-config
+Implementation-Vendor: org.gnieh
+

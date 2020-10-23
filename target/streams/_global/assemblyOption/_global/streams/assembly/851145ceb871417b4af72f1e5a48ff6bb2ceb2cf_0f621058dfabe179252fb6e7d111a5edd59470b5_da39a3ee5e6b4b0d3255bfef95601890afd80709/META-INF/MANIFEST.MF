@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1583208533913
+Build-Jdk: 1.8.0_162
+Built-By: tatu
+Bundle-Description: Pile of code that is shared by all Jackson-based J
+ AX-RSproviders.
+Bundle-DocURL: http://github.com/FasterXML/jackson-jaxrs-providers/jac
+ kson-jaxrs-base
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Jackson-JAXRS-base
+Bundle-SymbolicName: com.fasterxml.jackson.jaxrs.jackson-jaxrs-base
+Bundle-Vendor: FasterXML
+Bundle-Version: 2.10.3
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.fasterxml.jackson.jaxrs.annotation;version="2.10.3
+ ";uses:="com.fasterxml.jackson.annotation,com.fasterxml.jackson.datab
+ ind",com.fasterxml.jackson.jaxrs.base;version="2.10.3";uses:="com.fas
+ terxml.jackson.core,com.fasterxml.jackson.databind,com.fasterxml.jack
+ son.jaxrs.cfg,com.fasterxml.jackson.jaxrs.util,javax.ws.rs.core,javax
+ .ws.rs.ext",com.fasterxml.jackson.jaxrs.base.nocontent;version="2.10.
+ 3";uses:="com.fasterxml.jackson.jaxrs.base",com.fasterxml.jackson.jax
+ rs.cfg;version="2.10.3";uses:="com.fasterxml.jackson.core,com.fasterx
+ ml.jackson.databind,com.fasterxml.jackson.databind.cfg,javax.ws.rs.co
+ re",com.fasterxml.jackson.jaxrs.util;version="2.10.3";uses:="com.fast
+ erxml.jackson.databind,com.fasterxml.jackson.databind.introspect"
+Implementation-Build-Date: 2020-03-03 04:08:46+0000
+Implementation-Title: Jackson-JAXRS-base
+Implementation-Vendor: FasterXML
+Implementation-Vendor-Id: com.fasterxml.jackson.jaxrs
+Implementation-Version: 2.10.3
+Import-Package: javax.ws.rs.core;version="[2.0,2.2)",javax.ws.rs.ext;v
+ ersion="[2.0,2.2)",com.fasterxml.jackson.annotation;version="[2.10,3)
+ ",com.fasterxml.jackson.core;version="[2.10,3)",com.fasterxml.jackson
+ .databind;version="[2.10,3)",com.fasterxml.jackson.databind.cfg;versi
+ on="[2.10,3)",com.fasterxml.jackson.databind.introspect;version="[2.1
+ 0,3)",com.fasterxml.jackson.databind.type;version="[2.10,3)",com.fast
+ erxml.jackson.jaxrs.annotation;version="[2.10,3)",com.fasterxml.jacks
+ on.jaxrs.base;version="[2.10,3)",com.fasterxml.jackson.jaxrs.base.noc
+ ontent;version="[2.10,3)",com.fasterxml.jackson.jaxrs.cfg;version="[2
+ .10,3)",com.fasterxml.jackson.jaxrs.util;version="[2.10,3)",javax.ws.
+ rs;version="[2.0,2.2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Specification-Title: Jackson-JAXRS-base
+Specification-Vendor: FasterXML
+Specification-Version: 2.10.3
+Tool: Bnd-4.2.0.201903051501
+X-Compile-Source-JDK: 1.7
+X-Compile-Target-JDK: 1.7
+

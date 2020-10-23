@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+    <book mdate="2019-05-14" key="conf/mww/2003">
+        <editor>Jonathan Lawry</editor>
+        <editor>James G. Shanahan</editor>
+        <editor>Anca L. Ralescu</editor>
+        <title>Modelling with Words - Learning, Fusion, and Reasoning within a Formal Linguistic Representation Framework</title>
+        <booktitle>Modelling with Words</booktitle>
+        <series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+        <volume>2873</volume>
+        <publisher>Springer</publisher>
+        <year>2003</year>
+        <isbn>3-540-20487-3</isbn>
+        <url>db/conf/mww/mww2003.html</url>
+        <ee>https://doi.org/10.1007/b94063</ee>
+    </book>
+    <article mdate="2020-06-25" key="tr/test/s18" publtype="informal">
+    <author>Jacob Sanchez</author>
+    <title>Another Professional Paper.</title>
+    <journal>Another professional journal</journal>
+    <year>2018</year>
+    <ee type="oa"></ee>
+        </article>
+
+    <article mdate="2020-06-25" key="tr/meltdown/s18" publtype="informal">
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Daniel Gruss</author>
+        <author>Werner Haas 0004</author>
+        <author>Mike Hamburg</author>
+        <author>Moritz Lipp</author>
+        <author>Stefan Mangard</author>
+        <author>Thomas Prescher 0002</author>
+        <author>Michael Schwarz 0001</author>
+        <author>Yuval Yarom</author>
+        <author>Jacob Sanchez</author>
+        <title>My professional Research Paper.</title>
+        <journal>My professional journal</journal>
+        <year>2018</year>
+        <ee type="oa">https://spectreattack.com/spectre.pdf</ee>
+    </article>
+
+    <article mdate="2020-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Moritz Lipp</author>
+        <author>Michael Schwarz 0001</author>
+        <author>Daniel Gruss</author>
+        <author>Thomas Prescher 0002</author>
+        <author>Werner Haas 0004</author>
+        <author>Stefan Mangard</author>
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Yuval Yarom</author>
+        <author>Mike Hamburg</author>
+        <title>Meltdown</title>
+        <journal>meltdownattack.com</journal>
+        <ee type="oa">https://meltdownattack.com/meltdown.pdf</ee>
+        <year>2018</year>
+    </article>
+    <article mdate="2020-06-25" key="tr/meltdown/s18" publtype="informal">
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Daniel Gruss</author>
+        <author>Werner Haas</author>
+        <author>Mike Hamburg</author>
+        <author>Moritz Lipp</author>
+        <author>Stefan Mangard</author>
+        <author>Thomas Prescher</author>
+        <author>Michael Schwarz</author>
+        <author>Yuval Yarom</author>
+        <title>Spectre Attacks: Exploiting Speculative Execution.</title>
+        <journal>meltdownattack.com</journal>
+        <year>2018</year>
+        <ee type="oa">https://spectreattack.com/spectre.pdf</ee>
+    </article>
+    <article mdate="2020-06-25" key="tr/meltdown/s19" publtype="informal">
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Daniel Gruss</author>
+        <author>Werner Haas</author>
+        <author>Mike Hamburg</author>
+        <author>Moritz Lipp</author>
+        <author>Stefan Mangard</author>
+        <author>Thomas Prescher</author>
+        <author>Michael Schwarz</author>
+        <author>Yuval Yarom</author>
+        <year>2005</year>
+        <booktitle>Encyclopedia of Cryptography and Security</booktitle>
+        <year>2018</year>
+        <ee type="oa">https://spectreattack.com/spectre.pdf</ee>
+    </article>
+    <article mdate="2020-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Moritz Lipp</author>
+        <author>Michael Schwarz</author>
+        <author>Daniel Gruss</author>
+        <author>Thomas Prescher</author>
+        <author>Werner Haas</author>
+        <author>Stefan Mangard</author>
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Yuval Yarom</author>
+        <author>Mike Hamburg</author>
+        <title>Meltdown</title>
+        <journal>meltdownattack.com</journal>
+        <ee type="oa">https://meltdownattack.com/meltdown.pdf</ee>
+        <year>2018</year>
+    </article>
+    <article mdate="2019-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2019</year>
+    </article>
+    <article mdate="2018-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2018</year>
+    </article>
+    <article mdate="2017-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2017</year>
+    </article>
+    <article mdate="2016-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2016</year>
+    </article>
+    <article mdate="2015-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2015</year>
+    </article>
+    <article mdate="2014-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2014</year>
+    </article>
+    <article mdate="2013-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2013</year>
+    </article>
+    <article mdate="2012-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2012</year>
+    </article>
+    <article mdate="2011-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2011</year>
+    </article>
+    <article mdate="2010-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2010</year>
+    </article>
+    <article mdate="2010-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Jacob Sanchez</author>
+        <author>Alex Jalomo</author>
+        <year>2009</year>
+    </article>
+</dblp>

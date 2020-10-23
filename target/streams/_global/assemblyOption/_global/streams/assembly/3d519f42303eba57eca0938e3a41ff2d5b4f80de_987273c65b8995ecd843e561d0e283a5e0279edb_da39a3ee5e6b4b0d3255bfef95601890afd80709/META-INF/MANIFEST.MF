@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Mahout HDFS
+Implementation-Version: 0.13.0
+Archiver-Version: Plexus Archiver
+Built-By: akm
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Mahout HDFS
+Implementation-Vendor-Id: org.apache.mahout
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_121
+Specification-Version: 0.13.0
+Implementation-Vendor: The Apache Software Foundation
+
