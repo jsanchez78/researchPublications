@@ -10,3 +10,5 @@
 /httpRequests/
 # IDEA
 .idea/
+# Output
+out/
