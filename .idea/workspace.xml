@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ca32d23-9643-464f-9b08-12250cb3ddc0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CS441" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iq6l0fm2gZuE2M7klIaPdmAgyN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="bigdataide_conn_settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/Screenshots" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/project" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="CS441" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="map_reduce" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="map_reduce" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="map_reduce" />
+      <module name="CS441" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="ignorePerformance" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ca32d23-9643-464f-9b08-12250cb3ddc0" name="Default Changelist" comment="" />
+      <created>1602622923681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602622923681</updated>
+      <workItem from="1602622926025" duration="1086000" />
+      <workItem from="1602624224731" duration="2993000" />
+      <workItem from="1602630698307" duration="2179000" />
+      <workItem from="1602637625072" duration="1945000" />
+      <workItem from="1602640231704" duration="209000" />
+      <workItem from="1602640462443" duration="1394000" />
+      <workItem from="1602643227697" duration="3074000" />
+      <workItem from="1602694601728" duration="327000" />
+      <workItem from="1602695035141" duration="4395000" />
+      <workItem from="1602701080600" duration="1065000" />
+      <workItem from="1602718007795" duration="6188000" />
+      <workItem from="1602729935808" duration="191000" />
+      <workItem from="1602731916676" duration="10488000" />
+      <workItem from="1602746087022" duration="869000" />
+      <workItem from="1602746960822" duration="661000" />
+      <workItem from="1602747669219" duration="198000" />
+      <workItem from="1602747870497" duration="1977000" />
+      <workItem from="1602749855231" duration="662000" />
+      <workItem from="1602750566481" duration="45000" />
+      <workItem from="1602750614912" duration="95000" />
+      <workItem from="1602750713487" duration="246000" />
+      <workItem from="1602856056160" duration="1317000" />
+      <workItem from="1602857378383" duration="351000" />
+      <workItem from="1602857733556" duration="37000" />
+      <workItem from="1602857774069" duration="449000" />
+      <workItem from="1602858231885" duration="10061000" />
+      <workItem from="1602872221012" duration="3420000" />
+      <workItem from="1602896060352" duration="7325000" />
+      <workItem from="1602906697110" duration="781000" />
+      <workItem from="1602907481878" duration="213000" />
+      <workItem from="1602907697626" duration="5661000" />
+      <workItem from="1602949754519" duration="2059000" />
+      <workItem from="1602952740654" duration="106000" />
+      <workItem from="1602952863951" duration="648000" />
+      <workItem from="1602953531533" duration="1377000" />
+      <workItem from="1602955845842" duration="20362000" />
+      <workItem from="1602978236191" duration="187000" />
+      <workItem from="1602978426179" duration="11123000" />
+      <workItem from="1602991266501" duration="2884000" />
+      <workItem from="1603038862705" duration="6676000" />
+      <workItem from="1603055731766" duration="3515000" />
+      <workItem from="1603059321356" duration="345000" />
+      <workItem from="1603059678975" duration="64344000" />
+      <workItem from="1603474413336" duration="1142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="100" key="#Big_Data_Tools_Connections" timestamp="1602726238646">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="384" y="100" key="#Big_Data_Tools_Connections/0.0.1440.900@0.0.1440.900" timestamp="1602726238646" />
+    <state x="692" y="278" key="#BuildArtifactsBeforeRunChooser" timestamp="1602742667965">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="692" y="278" key="#BuildArtifactsBeforeRunChooser/0.0.1440.900@0.0.1440.900" timestamp="1602742667965" />
+    <state x="208" y="31" key="#Project_Structure" timestamp="1603059654625">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1603059654625" />
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1603333605190">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603333605190" />
+    <state x="369" y="0" width="1071" height="900" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602746776210">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="0" width="1071" height="900" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1602746776210" />
+    <state x="398" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603055526445">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="398" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1603055526445" />
+    <state x="398" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.797@0.23.1440.797" timestamp="1602632094735" />
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602639783454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.900@0.0.1440.900" timestamp="1602639783454" />
+    <state x="470" y="218" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602745097107">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="470" y="218" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1602745097107" />
+    <state x="334" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602746752948">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="334" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1602746752947" />
+    <state x="479" y="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602961135975">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="479" y="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1602961135975" />
+    <state x="466" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603077343894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="466" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1603077343894" />
+    <state width="1398" height="551" key="GridCell.Tab.0.bottom" timestamp="1602872216711">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="551" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602872216711" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1602867010637" />
+    <state width="1398" height="551" key="GridCell.Tab.0.center" timestamp="1602872216709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="551" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602872216709" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1602867010636" />
+    <state width="1398" height="551" key="GridCell.Tab.0.left" timestamp="1602872216709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="551" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602872216709" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1602867010635" />
+    <state width="1398" height="551" key="GridCell.Tab.0.right" timestamp="1602872216710">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="551" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602872216710" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1602867010637" />
+    <state x="236" y="43" width="1024" height="797" key="SettingsEditor" timestamp="1602746468457">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="236" y="43" width="1024" height="797" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602746468457" />
+    <state x="241" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1602721675386" />
+    <state x="221" y="89" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1602623125540" />
+    <state x="507" y="235" key="chooseDestDirectoryDialog" timestamp="1602961111640">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="235" key="chooseDestDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1602961111640" />
+    <state x="421" y="58" width="598" height="783" key="find.popup" timestamp="1602630181439">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="58" width="598" height="783" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1602630181439" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603334576754">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603334576754" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
